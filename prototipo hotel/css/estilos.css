@@ -1,0 +1,58 @@
+body {
+  padding-bottom: 3rem;
+  color: #6e6464;
+  padding-left: 0px;
+  
+}
+.inicial{
+  background-color: rgb(250, 168, 17);
+  color: white;
+}
+
+.resaltado{
+  color: rgb(226, 168, 43);
+  font-family: Broadway;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+h1{
+  color: rgb(250, 168, 17);
+  font-family: Britannic Bold ;
+}
+h2{
+  font-style: italic;
+  margin-left: 7rem;
+}
+h2{
+  text-align: center;
+}
+h3{
+  
+  color: rgb(28, 52, 134);
+  font-family: Britannic Bold ;
+  text-align: left;
+}
+h5 {
+  font-style: italic;
+}
+.titulo{
+  text-align: center;
+}
+p .caract{
+  text-align: center;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF;
+
+}
+header a:hover{
+  font-weight: bold;
+  
+}
+.footer-section{
+  align-content: center;
+}
+
